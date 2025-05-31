@@ -2,12 +2,17 @@
 
 ---
 
-**COMPANY:** CODTECH IT SOLUTIONS
-**NAME:** G M KAIFU
-**INTERN ID:** CT06DN1863
-**DOMAIN:** ARTIFICIAL INTELLIGENCE
-**DURATION:** 6 WEEKS (JUNE-JULY 2024)
-**MENTOR:** NEELA SANTOSH
+**COMPANY:**  CODTECH IT SOLUTIONS
+
+**NAME:**  G M KAIFU
+
+**INTERN ID:**  CT06DN1863
+
+**DOMAIN:**  ARTIFICIAL INTELLIGENCE
+
+**DURATION:**  6 WEEKS 
+
+**MENTOR:**  NEELA SANTOSH
 
 # INTRODUCTION
 In the modern era of artificial intelligence and natural language processing, speech recognition systems play a vital role in bridging the gap between humans and machines. From voice assistants like Siri and Alexa to accessibility tools and automated transcription services, speech-to-text technology is being used across various industries to improve communication, accessibility, and automation.
