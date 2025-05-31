@@ -19,7 +19,7 @@ In the modern era of artificial intelligence and natural language processing, sp
 
 As part of my internship project, the task was to build a basic speech-to-text system using pre-trained models and libraries like SpeechRecognition or Wav2Vec. However, to enhance transcription accuracy and usability, I chose to implement this system using OpenAI's Whisper model, a state-of-the-art pre-trained deep learning model for automatic speech recognition (ASR).
 
-# 📝 Overview
+#  Overview
 
 This project fulfills the internship requirement of building a **basic Speech-to-Text system** using **pre-trained models** and libraries like **Whisper** and audio processing tools. The system is designed to **transcribe short English audio clips** using OpenAI's **Whisper** model, which is one of the most powerful open-source speech recognition models available.
 
@@ -33,7 +33,7 @@ It is a functional, self-contained system that enables users to record short voi
 
 ---
 
-# 📌 Features
+#  Features
 
 - ✅ Record short audio clips using the microphone
 - ✅ Transcribe English audio clips with high accuracy
@@ -44,7 +44,7 @@ It is a functional, self-contained system that enables users to record short voi
 
 ---
 
-# 📦 Libraries & Requirements
+#  Libraries & Requirements
 
 This project uses the following Python libraries:
 
@@ -62,7 +62,7 @@ This project uses the following Python libraries:
 
 
 
-# 🔧 System Requirements
+#  System Requirements
 
 - Python 3.7+
 - `ffmpeg` installed and added to PATH (for audio format compatibility)
